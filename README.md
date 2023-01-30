@@ -1,1 +1,2 @@
-# Portfolio
+Welcome to my word guessing game! As a web developer, I wanted to showcase my skills by creating a fun and interactive game for users to play. The game is simple - you'll be given a word with some letters missing, and you'll have to guess the word by filling in the blanks. Each time you guess correctly, you'll move on to the next level. Test your vocabulary and see how far you can get!
+Have fun and good luck!
